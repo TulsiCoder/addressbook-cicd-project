@@ -1,5 +1,5 @@
-This is the readme file and we again chgange 
-i am making a change 
+This is the readme file and we again change 
+I am making a change 
 this is my third change
 this is my new chgangfte
 this is the update
